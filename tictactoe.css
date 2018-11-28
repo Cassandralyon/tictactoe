@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+  }
+  td {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+  }
+  table {
+    margin: 5px auto;
+  }
+  .vert {
+    border-left: 6px solid black;
+    border-right: 6px solid black;
+  }
+  .hori {
+    border-top: 6px solid black;
+    border-bottom: 6px solid black;
+  }
